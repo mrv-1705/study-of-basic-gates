@@ -63,12 +63,21 @@ Y= A⊕B
 
 
 **PROGRAM**
+```
+module EX01(x1,x2,f);
+input x1,x2;
+output f;
+assign f=(x1 & ~x2)|(x2 & ~x1);
+
+endmodule
+```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+
 
 **RTL realization Output:** 
 
