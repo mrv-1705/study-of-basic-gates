@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### study-of-basic-gates ###
 
 **AIM:** 
 
@@ -63,9 +63,6 @@ Y= A⊕B
 
 
 **PROGRAM**
-```
-
-```
 ```
 module EX01(a,b,c,d,e,x,y,z);
 input a,b;
