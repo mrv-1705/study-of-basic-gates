@@ -82,7 +82,11 @@ Deleveoped By: Kurapati Vishnu Vardhan Reddy
 Registration Number : 212223040103 
  
 **Logic symbol & Truthtable**
+
+
 ![truthtable](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/59c88022-d405-4766-a3f2-eafcb91765cd)
+
+
 
 ![truthtable1](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/b6af33b9-48c3-44cd-96a9-b5211af2c166)
 
