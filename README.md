@@ -89,10 +89,12 @@ Registration Number : 212223040103
 
 
 **RTL realization Output:** 
-![RTL viewer](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/dd76e8b9-59dc-4ad1-8deb-5e57e8e8318a)
+
+![RTL output](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/66b390ea-52ff-4822-9051-269b5c2d1b0f)
+
 
 **RTL**
-
+![RTL viewer](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/dd76e8b9-59dc-4ad1-8deb-5e57e8e8318a)
 **Result:**
 
-
+Thus the different digital IC's are studied and the truth table for different logic gates are verified
