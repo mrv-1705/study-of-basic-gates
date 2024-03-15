@@ -64,22 +64,35 @@ Y= A⊕B
 
 **PROGRAM**
 ```
-module EX01(x1,x2,f);
-input x1,x2;
-output f;
-assign f=(x1 & ~x2)|(x2 & ~x1);
 
+```
+```
+module EX01(a,b,c,d,e,x,y,z);
+input a,b;
+output c,d,e,x,y,z;
+and(c,a,b);
+or(d,a,b);
+xor(e,a,b);
+nand(x,a,b);
+nor(y,a,b);
+xnor(z,a,b);
 endmodule
 ```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+Deleveoped By: Kurapati Vishnu Vardhan Reddy
+Registration Number : 212223040103 
  
 **Logic symbol & Truthtable**
+![truthtable](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/59c88022-d405-4766-a3f2-eafcb91765cd)
+
+![truthtable1](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/b6af33b9-48c3-44cd-96a9-b5211af2c166)
+
 
 
 **RTL realization Output:** 
+![RTL viewer](https://github.com/mrv-1705/study-of-basic-gates/assets/114565075/dd76e8b9-59dc-4ad1-8deb-5e57e8e8318a)
 
 **RTL**
 
